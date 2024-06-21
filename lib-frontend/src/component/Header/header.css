@@ -1,0 +1,17 @@
+
+.img-css {
+    max-height: 40px; /* Adjust the max height of your image */
+  }
+  
+  
+  .right-links a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: gray;
+  }
+  
+  .float-left-child {
+    float: left;
+    margin-right:2%;
+  }
+  
